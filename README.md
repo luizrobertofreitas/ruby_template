@@ -6,3 +6,10 @@ The main focus of this project is to provide a ruby project structure suggested 
 * Faraday
 * Rest Client
 * Benchmark
+
+### In order to run this
+
+1. Just issue an `bundle install` inside the project folder
+2. To run tests just issue `bin/rspec --format doc`
+
+That's it!
